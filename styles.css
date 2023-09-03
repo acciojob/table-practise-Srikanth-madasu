@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
-#sri { 
-     background-color :yellow;
+th,td,table{
+	border: 1px solid black;
+}
+table{
+	background-color:yellow;
 }
